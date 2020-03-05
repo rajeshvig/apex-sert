@@ -1,6 +1,6 @@
 # Releases
-### APEX 19.1
-APEX-SERT for APEX 19.1 is now production and can be downloaded from here.  
+### APEX 19.x
+APEX-SERT for APEX 19.x is now production and can be downloaded from here.  
 
 ### APEX 5.1
 For version 5.1, please switch to the [5.1.02 branch](https://github.com/OraOpenSource/apex-sert/tree/5.1.02/releases) 
